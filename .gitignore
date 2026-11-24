@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+*.jpg
+*.jpeg
+*.png
+*.pdf
